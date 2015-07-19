@@ -30,10 +30,7 @@ if(!file.exists("./courseproject/UCI HAR Dataset"))
 
 
 # 1a
-# script assumes you have unziped course project data and have not changed directory structure
-# your working directory must be ...//UCI HAR Dataset
-
-# read test data from  test folder
+# read test data from test folder
 
 library(dplyr)
 
