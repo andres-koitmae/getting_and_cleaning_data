@@ -18,5 +18,3 @@ data <- read.table('./courseproject/tidy_data.txt', header = TRUE)
 View(data)
 ```
 codebook.md gives a list of all variables found in tidy data set tidy_data.txt
-
-tidy_data.txt is the tidy data set created with scrip run_analysis.R
